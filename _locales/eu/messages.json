@@ -1,26 +1,26 @@
 {
     "extName": {
-        "message": "Garapen moduaren alerta"
+        "message": "Development Mode Alert"
     },
     "extDescription": {
-        "message": "Garapen ingurumenak nabarmendu egiten dituen Chrome aktibatzailea, ertza pertsonalizagarria gehituz."
+        "message": "Garapen inguruneak nabarmendu Chrome luzapenarekin margotuz."
     },
     "enableExtension": {
-        "message": "Zuzendu Aukera"
+        "message": "Gaitu luzapena"
     },
     "borderColor": {
-        "message": "Mugazki Kolorea"
+        "message": "Azalaren Kolorea"
     },
     "borderWidth": {
-        "message": "Ertz Luzera"
+        "message": "Azal Zabalera"
     },
     "triggerURL": {
-        "message": "Egokitzapen URL"
+        "message": "Trigger URL"
     },
     "shortDescription": {
-        "message": "Garatu-ingurunak nabarmendu pertsonalizagarri dauden ertza."
+        "message": "Resaltar entornos de desarrollo con un borde personalizable."
     },
     "description": {
-        "message": "Dev Mode Alert Chrome hedapen bat da garatzaileak helburu errazean garatu eta produkzio inguruneak bereizteko. Hau egiten da moldagarria orria espezifikatuak bisitatzean arakatzailean ingurunea ertz pertsonalizagarri bat gehitzeko."
+        "message": "Dev Mode Alert a Chrome luzapen bat da, garatzaileei laguntzeko, garapen eta produkzio inguruneak erraz bereiz ditzate URL espezifikoen bisitatzean nabarmenduzko azal bat gehituz."
     }
 }

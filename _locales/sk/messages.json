@@ -1,26 +1,26 @@
 {
     "extName": {
-        "message": "Vývojový režim upozornenia"
+        "message": "Upozornenie na režim vývoja"
     },
     "extDescription": {
-        "message": "Chrome rozšírenie na zvýraznenie vývojových prostredí pridaním prispôsobiteľného okraja."
+        "message": "Rozšírenie pre Chrome na zvýraznenie vývojových prostredí pridaním prispôsobiteľnej hranice."
     },
     "enableExtension": {
         "message": "Povoliť rozšírenie"
     },
     "borderColor": {
-        "message": "Farba okraja"
+        "message": "Farba hranice"
     },
     "borderWidth": {
-        "message": "Šírka okraja"
+        "message": "Šírka hranice"
     },
     "triggerURL": {
-        "message": "Spúšťací URL"
+        "message": "Spúšťač URL"
     },
     "shortDescription": {
-        "message": "Zvýraznite vývojové prostredia s možnosťou prispôsobenia okrajov."
+        "message": "Zvýrazniť vývojové prostredia prispôsobiteľnou hranicou."
     },
     "description": {
-        "message": "Dev Mode Alert je rozšírenie pre prehliadač Chrome navrhnuté na pomoc vývojárom pri ľahkom odlíšení medzi vývojovým a produkčným prostredím pridaním nastaviteľného rámu okolo okna prehliadača pri návšteve určitých URL adries."
+        "message": "Upozornenie na režim vývoja je rozšírenie pre Chrome navrhnuté na pomoc vývojárom pri ľahkom odlišovaní vývojových a produkčných prostredí pridaním prispôsobiteľnej hranice okolo okna prehliadača pri návšteve určených URL adries."
     }
 }
