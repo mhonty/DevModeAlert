@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Upozornenie na Režim Vývoja"
+    },
+    "extDescription": {
+        "message": "Rozšírenie Chrome na zvýraznenie vývojových prostredí pridaním prispôsobiteľného okraja."
+    },
+    "enableExtension": {
+        "message": "Povoliť Rozšírenie"
+    },
+    "borderColor": {
+        "message": "Farba Okraja"
+    },
+    "borderWidth": {
+        "message": "Šírka Okraja"
+    },
+    "triggerURL": {
+        "message": "URL Spúšťania"
+    }
+}

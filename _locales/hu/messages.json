@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Fejlesztői Mód Riasztás"
+    },
+    "extDescription": {
+        "message": "Egy Chrome bővítmény, amely testreszabható keret hozzáadásával kiemeli a fejlesztői környezeteket."
+    },
+    "enableExtension": {
+        "message": "Bővítmény Engedélyezése"
+    },
+    "borderColor": {
+        "message": "Keret Színe"
+    },
+    "borderWidth": {
+        "message": "Keret Szélessége"
+    },
+    "triggerURL": {
+        "message": "Indító URL"
+    }
+}

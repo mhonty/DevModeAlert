@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Garapen Moduaren Abisua"
+    },
+    "extDescription": {
+        "message": "Garapen inguruneak nabarmentzeko Chrome luzapena, mugak pertsonalizatuz gehituz."
+    },
+    "enableExtension": {
+        "message": "Luzapena Gaitu"
+    },
+    "borderColor": {
+        "message": "Mugaren Kolorea"
+    },
+    "borderWidth": {
+        "message": "Mugaren Zabalera"
+    },
+    "triggerURL": {
+        "message": "Aktibazio URLa"
+    }
+}

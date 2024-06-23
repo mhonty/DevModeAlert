@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "تنبيه وضع التطوير"
+    },
+    "extDescription": {
+        "message": "إضافة Chrome لتسليط الضوء على بيئات التطوير من خلال إضافة حد قابل للتخصيص."
+    },
+    "enableExtension": {
+        "message": "تمكين الإضافة"
+    },
+    "borderColor": {
+        "message": "لون الحدود"
+    },
+    "borderWidth": {
+        "message": "عرض الحدود"
+    },
+    "triggerURL": {
+        "message": "رابط التشغيل"
+    }
+}
