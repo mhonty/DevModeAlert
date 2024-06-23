@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Fejlesztői Mód Riasztás"
+        "message": "Fejlesztői mód figyelmeztetését."
     },
     "extDescription": {
-        "message": "Egy Chrome bővítmény, amely testreszabható keret hozzáadásával kiemeli a fejlesztői környezeteket."
+        "message": "Egy Chrome böngészőkiterjesztés fejlesztői környezetek kiemeléséhez, egyéni beállítható keret hozzáadásával."
     },
     "enableExtension": {
-        "message": "Bővítmény Engedélyezése"
+        "message": "\"Habilitate extension\" would be translated to \"Kiterjesztés engedélyezése\" in Hungarian."
     },
     "borderColor": {
-        "message": "Keret Színe"
+        "message": "A borítószín."
     },
     "borderWidth": {
-        "message": "Keret Szélessége"
+        "message": "Az oldalsó vastagság"
     },
     "triggerURL": {
-        "message": "Indító URL"
+        "message": "A \"URL de Activación\" fordítása \"Aktiválási URL\" lenne magyarul."
+    },
+    "displayName": {
+        "message": "Fejlesztői mód riasztás"
+    },
+    "description": {
+        "message": "A Dev Mode Alert egy Chrome kiterjesztés, amelyet arra terveztek, hogy segítsen a fejlesztőknek könnyen megkülönböztetni a fejlesztői és a produkciós környezeteket. Az ablaktábla egyéni széleinél található egyéni keret hozzáadásával, amikor meglátogatod a konkrét URL-címeket, megakadályozza a véletlen környezetszerű változásokat."
+    },
+    "shortDescription": {
+        "message": "Kiemelje a fejlesztési környezeteket testreszabható kerettel."
+    },
+    "searchTerms": {
+        "message": "The translated text in Hungarian is: Fejlesztési Mód, Fejlesztési Figyelmeztetés, Fejlesztési Környezet, Testreszabható Szegély, Fejlesztő Eszközök, Chrome Kiegészítő, Környezetek Megkülönböztetése"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

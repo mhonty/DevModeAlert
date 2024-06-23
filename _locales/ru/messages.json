@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Оповещение о режиме разработки"
+        "message": "Аварийный режим разработки"
     },
     "extDescription": {
-        "message": "Расширение Chrome для выделения сред разработки с помощью настраиваемой границы."
+        "message": "Расширение для Chrome, выделяющее среды разработки путем добавления настраиваемой рамки."
     },
     "enableExtension": {
-        "message": "Включить расширение"
+        "message": "Активировать расширение"
     },
     "borderColor": {
-        "message": "Цвет границы"
+        "message": "\"Цвет границы\""
     },
     "borderWidth": {
-        "message": "Ширина границы"
+        "message": "\"Толщина края\""
     },
     "triggerURL": {
-        "message": "URL-адрес триггера"
+        "message": "Ссылка для активации"
+    },
+    "displayName": {
+        "message": "Аварийный режим разработки"
+    },
+    "description": {
+        "message": "Dev Mode Alert - это расширение для Chrome, разработанное для помощи разработчикам легко различать между средами разработки и производства. Добавляя настраиваемую рамку вокруг окна браузера при посещении определенных URL, оно предотвращает случайные изменения в неправильной среде."
+    },
+    "shortDescription": {
+        "message": "Выделите области разработки с настраиваемой рамкой."
+    },
+    "searchTerms": {
+        "message": "Modo Desarrollo, Alerta Desarrollo, Entorno Desarrollo, Borde Personalizable, Herramientas Dev, Extensión Chrome, Diferenciar Entornos\n\nРежим Разработки, Оповещение Разработки, Окружение Разработки, Настраиваемая Граница, Инструменты Разработчика, Расширение Chrome, Различать Окружения"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

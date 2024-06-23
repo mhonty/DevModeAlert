@@ -3,18 +3,36 @@
         "message": "تنبيه وضع التطوير"
     },
     "extDescription": {
-        "message": "إضافة Chrome لتسليط الضوء على بيئات التطوير من خلال إضافة حد قابل للتخصيص."
+        "message": "ترجمة النص إلى اللغة العربية: إضافة لـ Chrome تسلط الضوء على بيئات التطوير عن طريق إضافة حدود قابلة للتخصيص."
     },
     "enableExtension": {
-        "message": "تمكين الإضافة"
+        "message": "تمكين الإمتداد"
     },
     "borderColor": {
         "message": "لون الحدود"
     },
     "borderWidth": {
-        "message": "عرض الحدود"
+        "message": "سمك الحافة"
     },
     "triggerURL": {
-        "message": "رابط التشغيل"
+        "message": "رابط التنشيط"
+    },
+    "displayName": {
+        "message": "تنبيه وضع التطوير"
+    },
+    "description": {
+        "message": "إن تنبيه وضع التطوير Dev Mode Alert هو امتداد لمتصفح Chrome مصمم لمساعدة المطورين في التمييز بين بيئات التطوير والإنتاج بسهولة. من خلال إضافة حدود قابلة للتخصيص حول نافذة المتصفح عند زيارتك لعناوين URL معينة، يمنع التغييرات العرضية في البيئة الخاطئة."
+    },
+    "shortDescription": {
+        "message": "يسلط الضوء على بيئات التطوير مع حافة قابلة للتخصيص."
+    },
+    "searchTerms": {
+        "message": "وضع التطوير، تنبيه التطوير، بيئة التطوير، الحافة قابلة للتخصيص، أدوات المطورين، امتداد Chrome، تمييز البيئات"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

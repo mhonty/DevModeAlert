@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Garapen Moduaren Abisua"
+        "message": "Garbia Garapen Modua"
     },
     "extDescription": {
-        "message": "Garapen inguruneak nabarmentzeko Chrome luzapena, mugak pertsonalizatuz gehituz."
+        "message": "Chrome-ren luzapena garbiatzen den inguruneak nabaritzen duen Chrome-ren eklekopia, ertza pertsonalizagarri bat erantsiz."
     },
     "enableExtension": {
-        "message": "Luzapena Gaitu"
+        "message": "Itzali luzapena."
     },
     "borderColor": {
-        "message": "Mugaren Kolorea"
+        "message": "Ertzaren kolorea."
     },
     "borderWidth": {
-        "message": "Mugaren Zabalera"
+        "message": "Ertzaren lodia"
     },
     "triggerURL": {
-        "message": "Aktibazio URLa"
+        "message": "Aktibazio URL-a"
+    },
+    "displayName": {
+        "message": "Garraiola garatzeko alerta"
+    },
+    "description": {
+        "message": "Dev Mode Alert-ek Chrome-ren luzapen bat da, garatzaileei laguntzeko diseinatua, garapen eta produkzio ingurun arte erraz bereizteko. Nabigatzailearen leiho inguruan aldatzeak saihestuko ditu, URL zehatzak bisitatzen dituztenean."
+    },
+    "shortDescription": {
+        "message": "Garatu-ingurua nabarmendu pertsonalizagarri bat duen ertza."
+    },
+    "searchTerms": {
+        "message": "Garatu Modua, Gurutzeko Garatu, Inguru Garatu, Pertsonalizagarri Atea, Garatzaile Tresnak, Chrome Hedapena, Inguruak Bereiztea"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

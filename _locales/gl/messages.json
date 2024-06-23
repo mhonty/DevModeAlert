@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Alerta de Modo Desenvolvemento"
+        "message": "Alerta de Modo Desarrollo translates to \"Táboa de Modo Desarrollo\" in Galician."
     },
     "extDescription": {
-        "message": "Unha extensión de Chrome para resaltar os entornos de desenvolvemento engadindo un bordo personalizable."
+        "message": "Unha extensión de Chrome para resaltar os entornos de desenvolvemento engadindo un borde personalizable."
     },
     "enableExtension": {
-        "message": "Activar Extensión"
+        "message": "\"Activar Extensión\""
     },
     "borderColor": {
-        "message": "Cor do Bordo"
+        "message": "Cor do Borde"
     },
     "borderWidth": {
-        "message": "Ancho do Bordo"
+        "message": "\"Ancho do Borde\""
     },
     "triggerURL": {
-        "message": "URL de Activación"
+        "message": "URL de Activación translates to \"URL de Activación\" in Galician."
+    },
+    "displayName": {
+        "message": "Alerta no Modo de Desenvolvemento"
+    },
+    "description": {
+        "message": "Dev Mode Alert é unha extensión de Chrome deseñada para axudar aos desenvolvedores a distinguir facilmente entre entornos de desenvolvemento e produción. Engadindo un borde personalizable ao redor da ventá do navegador cando visitas URLs específicas, evita cambios accidentais no entorno incorrecto."
+    },
+    "shortDescription": {
+        "message": "Destaca contornos de desenvolvemento cun borde personalizable."
+    },
+    "searchTerms": {
+        "message": "Modo Desenvolvemento, Alerta de Desenvolvemento, Entorno de Desenvolvemento, Borde Personalizable, Ferramentas Dev, Extensión Chrome, Diferenciar Entornos"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }
