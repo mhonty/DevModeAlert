@@ -43,6 +43,32 @@ Dev Mode Alert is a Chrome extension designed to help developers easily distingu
 - **Border Width**: Specify the width of the border in pixels.
 - **Trigger URL**: Enter the URLs where the border should be applied. Use `*` as a wildcard for zero or more characters and `?` for a single character.
 
+## Localization Automation
+
+### `generateLocales.py` Script
+
+To facilitate the management of multiple language environments for the Dev Mode Alert extension, we have developed a script, `generateLocales.py`, located in the `_locales` directory. This script automates the translation of text across different language files based on changes made to the master message file (`masterMessages.json`).
+
+### Dependencies
+The script relies on OpenAI's API (version 1.0.0 or later), requiring developers to pass their API key to use the service. Ensure you have the correct version installed:
+```bash
+pip install openai>=1.0.0
+```
+
+### Configuration
+1. Place your OpenAI API key in your environment variables:
+   ```bash
+   export OPENAI_API_KEY='your_openai_api_key_here'
+   ```
+2. The master language file (`masterMessages.json`) should contain the default texts in English or your primary development language.
+
+### Running the Script
+To run the script and propagate changes across all language files:
+```bash
+python _locales/generateLocales.py
+```
+This will automatically update all corresponding `messages.json` files within each language-specific directory in `_locales`.
+
 ## Contributing
 
 We welcome contributions to enhance Dev Mode Alert. To contribute:

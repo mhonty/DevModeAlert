@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Alerte Mode Dev"
+        "message": "開発モードアラート"
     },
     "extDescription": {
-        "message": "Une extension Chrome pour mettre en évidence les environnements de développement en ajoutant une bordure personnalisable."
+        "message": "Chromeの拡張機能で、開発環境を強調するためにカスタマイズ可能な枠を追加します。"
     },
     "enableExtension": {
-        "message": "Activer l'extension"
+        "message": "「拡張機能を有効にする」"
     },
     "borderColor": {
-        "message": "Couleur de la bordure"
+        "message": "枠の色"
     },
     "borderWidth": {
-        "message": "Largeur de la bordure"
+        "message": "The translation of \"Grosor del Borde\" to Japanese is \"縁の厚さ\" (Fuchi no atsusa)."
     },
     "triggerURL": {
-        "message": "URL de déclenchement"
+        "message": "アクティベーションのURL"
+    },
+    "displayName": {
+        "message": "開発モードの警告"
+    },
+    "description": {
+        "message": "Dev Mode Alertは、開発者が開発環境と本番環境を簡単に区別するのを助けるために設計されたChrome拡張機能です。特定のURLを訪れたときにブラウザウィンドウの周囲にカスタマイズ可能な枠を追加することで、間違った環境への誤った変更を防ぎます。"
+    },
+    "shortDescription": {
+        "message": "開発環境をカスタマイズ可能な枠で強調する。"
+    },
+    "searchTerms": {
+        "message": "開発モード、開発アラート、開発環境、カスタマイズ可能なボーダー、開発ツール、Chrome拡張機能、環境の区別"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

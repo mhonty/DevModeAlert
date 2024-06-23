@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "开发模式警报"
+        "message": "发展模式警报"
     },
     "extDescription": {
-        "message": "通过添加可自定义的边框来突出显示开发环境的Chrome扩展程序。"
+        "message": "一款 Chrome 扩展，可通过添加可定制边框来突出显示开发环境。"
     },
     "enableExtension": {
-        "message": "启用扩展程序"
+        "message": "启用扩展"
     },
     "borderColor": {
-        "message": "边框颜色"
+        "message": "边框颜色 (Biānkù yánsè)"
     },
     "borderWidth": {
-        "message": "边框宽度"
+        "message": "边缘厚度"
     },
     "triggerURL": {
-        "message": "触发URL"
+        "message": "激活链接 (jīhuó liànjiē)"
+    },
+    "displayName": {
+        "message": "发展模式警报"
+    },
+    "description": {
+        "message": "Dev Mode Alert 是一个 Chrome 扩展，旨在帮助开发人员轻松区分开发环境和生产环境。通过在访问特定 URL 时在浏览器窗口周围添加可自定义的边框，防止在错误环境中意外更改。"
+    },
+    "shortDescription": {
+        "message": "突出可自定义边框的开发环境。"
+    },
+    "searchTerms": {
+        "message": "开发模式，开发警报，开发环境，可定制边缘，开发工具，Chrome扩展，区分环境"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }

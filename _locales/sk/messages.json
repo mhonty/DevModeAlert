@@ -1,20 +1,38 @@
 {
     "extName": {
-        "message": "Upozornenie na Režim Vývoja"
+        "message": "Režim vývojového upozornenia."
     },
     "extDescription": {
-        "message": "Rozšírenie Chrome na zvýraznenie vývojových prostredí pridaním prispôsobiteľného okraja."
+        "message": "Rozšírenie prehliadača Chrome na zvýraznenie vývojových prostredí pridaním personalizovateľného ohraničenia."
     },
     "enableExtension": {
         "message": "Povoliť Rozšírenie"
     },
     "borderColor": {
-        "message": "Farba Okraja"
+        "message": "Farba okraja"
     },
     "borderWidth": {
-        "message": "Šírka Okraja"
+        "message": "Hrúbka okraja"
     },
     "triggerURL": {
-        "message": "URL Spúšťania"
+        "message": "URL aktivácie"
+    },
+    "displayName": {
+        "message": "Výstraha vývojového režimu"
+    },
+    "description": {
+        "message": "Dev Mode Alert je rozšírenie pre Chrome navrhnuté na pomoc vývojárom ľahko rozlíšiť medzi vývojovými a produkčnými prostrediami. Pridaním prispôsobiteľného rámčeka okolo okna prehliadača pri navštevovaní konkrétnych URL adries sa bráni náhodným zmenám v nesprávnom prostredí."
+    },
+    "shortDescription": {
+        "message": "Zvýrazniť vývojové prostredia s personalizovateľným rámom."
+    },
+    "searchTerms": {
+        "message": "Režim Vývoj, Vývojové Upozornění, Vývojové Prostredie, Prispôsobiteľný Okraj, Vývojové Nástroje, Rozšírenie Chrome, Rozlišovať Prostredia"
+    },
+    "extensionLogo": {
+        "message": "img/logoDevModeAlert_300.png"
+    },
+    "smallPromotionalTile": {
+        "message": "img/small_promotional_DevModeAlert.png"
     }
 }
