@@ -7,20 +7,25 @@
 </head>
 
 <body>
-    <h1>Dev Mode Alert</h1>
-    <p>Estás en modo desarrollo.</p>
-
-    <h1 data-i18n="extName"></h1>
-    <label for="isEnabled" data-i18n="enableExtension"></label>
-    <input type="checkbox" id="isEnabled" class="option">
-    <label for="frameColor" data-i18n="borderColor"></label>
-    <input type="color" id="frameColor" class="option">
-    <label for="frameWidth" data-i18n="borderWidth"></label>
-    <input type="number" id="frameWidth" class="option" min="1" max="10">
-    <label for="triggerUrl" data-i18n="triggerURL"></label>
-    <input type="text" id="triggerUrl" class="option" placeholder="http://localhost/*">
-
-
+    <div class="container">
+        <h3 data-i18n="extName"></h3>
+        <div class="form-group">
+            <label for="isEnabled" data-i18n="enableExtension"></label>
+            <input type="checkbox" id="isEnabled" class="option">
+        </div>
+        <div class="form-group">
+            <label for="frameColor" data-i18n="borderColor"></label>
+            <input type="color" id="frameColor" class="option">
+        </div>
+        <div class="form-group">
+            <label for="frameWidth" data-i18n="borderWidth"></label>
+            <input type="number" id="frameWidth" class="option" min="1" max="10">
+        </div>
+        <div class="form-group">
+            <label for="triggerUrl" data-i18n="triggerURL"></label>
+            <input type="text" id="triggerUrl" class="option" placeholder="http://localhost/*">
+        </div>
+    </div>
     <script src="../include/settingsHandler.js"></script>
 </body>
 
