@@ -1,5 +1,0 @@
-{
-    "turboConsoleLog.includeFileNameAndLineNum": true,
-    "turboConsoleLog.insertEmptyLineAfterLogMessage": true,
-    "turboConsoleLog.insertEmptyLineBeforeLogMessage": true
-}
