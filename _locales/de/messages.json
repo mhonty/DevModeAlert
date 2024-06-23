@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Entwicklermodus-Alarm"
+    },
+    "extDescription": {
+        "message": "Eine Chrome-Erweiterung zum Hervorheben von Entwicklungsumgebungen durch Hinzufügen eines anpassbaren Rahmens."
+    },
+    "enableExtension": {
+        "message": "Erweiterung aktivieren"
+    },
+    "borderColor": {
+        "message": "Rahmenfarbe"
+    },
+    "borderWidth": {
+        "message": "Rahmenbreite"
+    },
+    "triggerURL": {
+        "message": "Auslöse-URL"
+    }
+}

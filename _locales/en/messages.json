@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Dev Mode Alert"
+    },
+    "extDescription": {
+        "message": "A Chrome extension to highlight development environments by adding a customizable border."
+    },
+    "enableExtension": {
+        "message": "Enable Extension"
+    },
+    "borderColor": {
+        "message": "Border Color"
+    },
+    "borderWidth": {
+        "message": "Border Width"
+    },
+    "triggerURL": {
+        "message": "Trigger URL"
+    }
+}

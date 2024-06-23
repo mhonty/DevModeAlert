@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "開発モードアラート"
+    },
+    "extDescription": {
+        "message": "カスタマイズ可能な境界線を追加して開発環境を強調表示するChrome拡張機能。"
+    },
+    "enableExtension": {
+        "message": "拡張機能を有効にする"
+    },
+    "borderColor": {
+        "message": "境界線の色"
+    },
+    "borderWidth": {
+        "message": "境界線の幅"
+    },
+    "triggerURL": {
+        "message": "トリガーURL"
+    }
+}

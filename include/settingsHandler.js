@@ -8,9 +8,6 @@ function updateSettings() {
 
 }
 
-
-
-
 function setInitialSettings() {
     // Definir valores iniciales
     const initialValues = {
@@ -40,12 +37,6 @@ function initSettings() {
     });
 }
 
-
-
-
-
-
-
 document.addEventListener('DOMContentLoaded', function () {
     
     initSettings();
@@ -54,5 +45,12 @@ document.addEventListener('DOMContentLoaded', function () {
     inputs.forEach(input => {
         input.addEventListener('input', updateSettings);
     });
+
+    var elements = document.querySelectorAll('[data-i18n]');
+    elements.forEach(function (element) {
+        var messageKey = element.getAttribute('data-i18n');
+        element.textContent = chrome.i18n.getMessage(messageKey);
+    });
+    
 });
 

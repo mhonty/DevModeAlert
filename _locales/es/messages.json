@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Alerta de Modo Desarrollo"
+    },
+    "extDescription": {
+        "message": "Una extensión de Chrome para resaltar los entornos de desarrollo añadiendo un borde personalizable."
+    },
+    "enableExtension": {
+        "message": "Habilitar Extensión"
+    },
+    "borderColor": {
+        "message": "Color del Borde"
+    },
+    "borderWidth": {
+        "message": "Grosor del Borde"
+    },
+    "triggerURL": {
+        "message": "URL de Activación"
+    }
+}

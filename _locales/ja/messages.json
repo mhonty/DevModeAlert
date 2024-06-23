@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Alerte Mode Dev"
+    },
+    "extDescription": {
+        "message": "Une extension Chrome pour mettre en évidence les environnements de développement en ajoutant une bordure personnalisable."
+    },
+    "enableExtension": {
+        "message": "Activer l'extension"
+    },
+    "borderColor": {
+        "message": "Couleur de la bordure"
+    },
+    "borderWidth": {
+        "message": "Largeur de la bordure"
+    },
+    "triggerURL": {
+        "message": "URL de déclenchement"
+    }
+}

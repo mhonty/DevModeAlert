@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Allarme Modalità Sviluppo"
+    },
+    "extDescription": {
+        "message": "Un'estensione di Chrome per evidenziare gli ambienti di sviluppo aggiungendo un bordo personalizzabile."
+    },
+    "enableExtension": {
+        "message": "Abilita Estensione"
+    },
+    "borderColor": {
+        "message": "Colore del Bordo"
+    },
+    "borderWidth": {
+        "message": "Larghezza del Bordo"
+    },
+    "triggerURL": {
+        "message": "URL di Attivazione"
+    }
+}

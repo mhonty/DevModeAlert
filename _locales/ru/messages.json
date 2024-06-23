@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Оповещение о режиме разработки"
+    },
+    "extDescription": {
+        "message": "Расширение Chrome для выделения сред разработки с помощью настраиваемой границы."
+    },
+    "enableExtension": {
+        "message": "Включить расширение"
+    },
+    "borderColor": {
+        "message": "Цвет границы"
+    },
+    "borderWidth": {
+        "message": "Ширина границы"
+    },
+    "triggerURL": {
+        "message": "URL-адрес триггера"
+    }
+}
