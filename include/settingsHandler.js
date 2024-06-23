@@ -28,12 +28,11 @@ function initSettings() {
     chrome.storage.sync.get(['isEnabled', 'frameColor', 'frameWidth', 'triggerUrl'], function (items) {
         if (items.isEnabled === undefined && items.frameColor === undefined && items.frameWidth === undefined && items.triggerUrl === undefined) {
             setInitialSettings();
-        } else {
-            document.getElementById('isEnabled').checked = items.isEnabled;
-            document.getElementById('frameColor').value = items.frameColor;
-            document.getElementById('frameWidth').value = items.frameWidth;
-            document.getElementById('triggerUrl').value = items.triggerUrl;
-        }
+        } 
+        document.getElementById('isEnabled').checked = items.isEnabled;
+        document.getElementById('frameColor').value = items.frameColor;
+        document.getElementById('frameWidth').value = items.frameWidth;
+        document.getElementById('triggerUrl').value = items.triggerUrl;
     });
 }
 
@@ -43,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     const inputs = document.querySelectorAll('.option');
     inputs.forEach(input => {
-        input.addEventListener('input', updateSettings);
+        input.addEventListener('change', updateSettings);
     });
 
     var elements = document.querySelectorAll('[data-i18n]');
