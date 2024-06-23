@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../css/popup.css">
+</head>
+
+<body>
+    <h1>Dev Mode Alert</h1>
+    <p>Estás en modo desarrollo.</p>
+
+    <form id="settingsForm">
+        <label for="isEnabled">Activar Extensión:</label>
+        <input class="option" type="checkbox" id="isEnabled" name="isEnabled" checked><br><br>
+    
+        <label for="frameColor">Color del Marco:</label>
+        <input class="option" type="color" id="frameColor" name="frameColor"><br><br>
+    
+        <label for="frameWidth">Grosor del Marco (px):</label>
+        <input class="option" type="number" id="frameWidth" name="frameWidth" min="1" max="10"><br><br>
+    
+        <label for="triggerUrl">Activar en URL:</label>
+        <input class="option" type="text" id="triggerUrl" name="triggerUrl" placeholder="http://localhost/*"><br><br>
+    
+    </form>
+
+
+    <script src="../include/settingsHandler.js"></script>
+</body>
+
+</html>
