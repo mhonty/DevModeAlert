@@ -12,15 +12,12 @@
         "message": "Cor da Borda"
     },
     "borderWidth": {
-        "message": "A largura da borda"
+        "message": "Largura da Borda"
     },
     "triggerURL": {
-        "message": "Disparar URL"
-    },
-    "shortDescription": {
-        "message": "Realçar ambientes de desenvolvimento com uma borda personalizável."
+        "message": "URL de Acionamento"
     },
     "description": {
-        "message": "O Dev Mode Alert é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção, adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs específicos."
+        "message": "O Alerta de Modo de Desenvolvimento é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção, adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs especificados."
     }
 }

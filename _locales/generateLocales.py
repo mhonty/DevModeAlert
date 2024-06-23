@@ -8,18 +8,23 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 # Crear una instancia del cliente
 client = openai.OpenAI()
 
-# Función para traducir texto usando la nueva API de OpenAI
-def traducir_texto(texto, idioma_destino):
+# Función para traducir todo el contenido JSON de una vez
+def traducir_json_completo(master_messages, idioma_destino):
     try:
+        # Convertir el JSON a texto para la traducción
+        texto_completo = json.dumps(master_messages, ensure_ascii=False)
+        prompt = f"Please translate this JSON content to {idioma_destino} directly: {texto_completo}"
         response = client.chat.completions.create(
             messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": f"Translate the following text to {idioma_destino}: {texto}"}
+                {"role": "system", "content": "You are a helpful assistant that translates JSON content directly without additional comments."},
+                {"role": "user", "content": prompt}
             ],
             model="gpt-3.5-turbo"
         )
+        # Extraer y convertir la traducción de vuelta a JSON
         translated_text = response.choices[0].message.content
-        return translated_text
+        translated_json = json.loads(translated_text)
+        return translated_json
     except Exception as e:
         print(f"Error handling the response: {str(e)}")
         return None
@@ -37,18 +42,14 @@ for subdir, dirs, files in os.walk(root_dir):
         if file == 'messages.json':
             file_path = os.path.join(subdir, file)
             parent_dir = os.path.basename(subdir)
-            # Vaciar el contenido del archivo messages.json antes de empezar a añadir nuevas traducciones
-            messages = {}
-
-            # Procesar cada clave y valor en master_messages
-            for key, value in master_messages.items():
-                texto_original = value["message"]
-                print("Traduciendo " + texto_original + " al idioma con código " + parent_dir)
-                texto_traducido = traducir_texto(texto_original, parent_dir)
-                messages[key] = {"message": texto_traducido}
-
+            # Traducir todo el contenido de una vez
+            translated_messages = traducir_json_completo(master_messages, parent_dir)
             # Guardar los cambios en el archivo messages.json
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(messages, f, ensure_ascii=False, indent=4)
+            if translated_messages:
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(translated_messages, f, ensure_ascii=False, indent=4)
+                print(f"Traducciones para {parent_dir} completadas.")
+            else:
+                print(f"Error al traducir para {parent_dir}")
 
-print("Traducciones completadas.")
+print("Proceso de traducción completado para todos los idiomas.")

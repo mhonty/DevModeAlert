@@ -1,26 +1,23 @@
 {
     "extName": {
-        "message": "Garapen moduaren alerta"
+        "message": "Development Mode Alert"
     },
     "extDescription": {
-        "message": "Garapen ingurumenak nabarmendu egiten dituen Chrome aktibatzailea, ertza pertsonalizagarria gehituz."
+        "message": "A Chrome-erabilizazioa garatzaile inguruneak nabarmendu ahal izateko baliozkotzat jotzen duen pxina gehigarri bat gehitzen duen Chrome extension bat."
     },
     "enableExtension": {
-        "message": "Zuzendu Aukera"
+        "message": "Extensiona Gaitu"
     },
     "borderColor": {
-        "message": "Mugazki Kolorea"
+        "message": "Ertz Kolorea"
     },
     "borderWidth": {
-        "message": "Ertz Luzera"
+        "message": "Ertz Zabalera"
     },
     "triggerURL": {
-        "message": "Egokitzapen URL"
-    },
-    "shortDescription": {
-        "message": "Garatu-ingurunak nabarmendu pertsonalizagarri dauden ertza."
+        "message": "Ekitaldi URLa"
     },
     "description": {
-        "message": "Dev Mode Alert Chrome hedapen bat da garatzaileak helburu errazean garatu eta produkzio inguruneak bereizteko. Hau egiten da moldagarria orria espezifikatuak bisitatzean arakatzailean ingurunea ertz pertsonalizagarri bat gehitzeko."
+        "message": "Dev Mode Alert Google-en aplikazio bat da garatzaileak garraiatu daitezen hain zuzen ere antolakuntza ingurune eta produkzio inguruneen artean diferentziatzeko barrantzitsua daiteke aplikazio bat transpaleta nitratu egiten diren URL zehatzak bisitatzen direnean."
     }
 }

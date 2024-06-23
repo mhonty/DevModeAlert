@@ -1,26 +1,23 @@
 {
     "extName": {
-        "message": "\"Development Mode Alert\" translates to \"Modo de Desarrollo Alerta\" in Spanish."
+        "message": "Development Mode Alert"
     },
     "extDescription": {
-        "message": "A Chrome extension to highlight development environments by adding a customizable border. \n\nTranslated to: \"Une extension Chrome pour mettre en évidence les environnements de développement en ajoutant une bordure personnalisable.\""
+        "message": "A Chrome extension to highlight development environments by adding a customizable border."
     },
     "enableExtension": {
-        "message": "\"Enable Extension\" translates to \"Activar Extensión\" in Spanish."
+        "message": "Enable Extension"
     },
     "borderColor": {
-        "message": "The translation of \"Border Color\" in English is \"Border Color.\""
+        "message": "Border Color"
     },
     "borderWidth": {
-        "message": "Border Width in English is also \"Border Width\" in English."
+        "message": "Border Width"
     },
     "triggerURL": {
-        "message": "\"Trigger URL\" translates to \"Activer URL\" in English."
-    },
-    "shortDescription": {
-        "message": "Highlight development environments with a customizable border."
+        "message": "Trigger URL"
     },
     "description": {
-        "message": "Dev Mode Alert is a Chrome extension designed to help developers easily differentiate between development and production environments by adding a customizable border around the browser window when visiting specified URLs. \n\nTranslation to en: Dev Mode Alert is a Chrome extension designed to help developers easily differentiate between development and production environments by adding a customizable border around the browser window when visiting specified URLs."
+        "message": "Dev Mode Alert is a Chrome extension designed to help developers easily differentiate between development and production environments by adding a customizable border around the browser window when visiting specified URLs."
     }
 }
