@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "Režim vývojového upozornenia."
+        "message": "Vývojový režim upozornenia"
     },
     "extDescription": {
-        "message": "Rozšírenie prehliadača Chrome na zvýraznenie vývojových prostredí pridaním personalizovateľného ohraničenia."
+        "message": "Chrome rozšírenie na zvýraznenie vývojových prostredí pridaním prispôsobiteľného okraja."
     },
     "enableExtension": {
-        "message": "Povoliť Rozšírenie"
+        "message": "Povoliť rozšírenie"
     },
     "borderColor": {
         "message": "Farba okraja"
     },
     "borderWidth": {
-        "message": "Hrúbka okraja"
+        "message": "Šírka okraja"
     },
     "triggerURL": {
-        "message": "URL aktivácie"
-    },
-    "displayName": {
-        "message": "Výstraha vývojového režimu"
-    },
-    "description": {
-        "message": "Dev Mode Alert je rozšírenie pre Chrome navrhnuté na pomoc vývojárom ľahko rozlíšiť medzi vývojovými a produkčnými prostrediami. Pridaním prispôsobiteľného rámčeka okolo okna prehliadača pri navštevovaní konkrétnych URL adries sa bráni náhodným zmenám v nesprávnom prostredí."
+        "message": "Spúšťací URL"
     },
     "shortDescription": {
-        "message": "Zvýrazniť vývojové prostredia s personalizovateľným rámom."
+        "message": "Zvýraznite vývojové prostredia s možnosťou prispôsobenia okrajov."
     },
-    "Search terms": {
-        "message": "Režim Vývoj, Vývojové Upozornění, Vývojové Prostredie, Prispôsobiteľný Okraj, Vývojové Nástroje, Rozšírenie Chrome, Rozlišovať Prostredia"
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "Dev Mode Alert je rozšírenie pre prehliadač Chrome navrhnuté na pomoc vývojárom pri ľahkom odlíšení medzi vývojovým a produkčným prostredím pridaním nastaviteľného rámu okolo okna prehliadača pri návšteve určitých URL adries."
     }
 }

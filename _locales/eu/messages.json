@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "Garbia Garapen Modua"
+        "message": "Garapen moduaren alerta"
     },
     "extDescription": {
-        "message": "Chrome-ren luzapena garbiatzen den inguruneak nabaritzen duen Chrome-ren eklekopia, ertza pertsonalizagarri bat erantsiz."
+        "message": "Garapen ingurumenak nabarmendu egiten dituen Chrome aktibatzailea, ertza pertsonalizagarria gehituz."
     },
     "enableExtension": {
-        "message": "Itzali luzapena."
+        "message": "Zuzendu Aukera"
     },
     "borderColor": {
-        "message": "Ertzaren kolorea."
+        "message": "Mugazki Kolorea"
     },
     "borderWidth": {
-        "message": "Ertzaren lodia"
+        "message": "Ertz Luzera"
     },
     "triggerURL": {
-        "message": "Aktibazio URL-a"
-    },
-    "displayName": {
-        "message": "Garraiola garatzeko alerta"
-    },
-    "description": {
-        "message": "Dev Mode Alert-ek Chrome-ren luzapen bat da, garatzaileei laguntzeko diseinatua, garapen eta produkzio ingurun arte erraz bereizteko. Nabigatzailearen leiho inguruan aldatzeak saihestuko ditu, URL zehatzak bisitatzen dituztenean."
+        "message": "Egokitzapen URL"
     },
     "shortDescription": {
-        "message": "Garatu-ingurua nabarmendu pertsonalizagarri bat duen ertza."
+        "message": "Garatu-ingurunak nabarmendu pertsonalizagarri dauden ertza."
     },
-    "Search terms": {
-        "message": "Garatu Modua, Gurutzeko Garatu, Inguru Garatu, Pertsonalizagarri Atea, Garatzaile Tresnak, Chrome Hedapena, Inguruak Bereiztea"
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "Dev Mode Alert Chrome hedapen bat da garatzaileak helburu errazean garatu eta produkzio inguruneak bereizteko. Hau egiten da moldagarria orria espezifikatuak bisitatzean arakatzailean ingurunea ertz pertsonalizagarri bat gehitzeko."
     }
 }

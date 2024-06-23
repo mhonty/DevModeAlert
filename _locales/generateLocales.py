@@ -37,20 +37,15 @@ for subdir, dirs, files in os.walk(root_dir):
         if file == 'messages.json':
             file_path = os.path.join(subdir, file)
             parent_dir = os.path.basename(subdir)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                messages = json.load(f)
+            # Vaciar el contenido del archivo messages.json antes de empezar a añadir nuevas traducciones
+            messages = {}
 
             # Procesar cada clave y valor en master_messages
             for key, value in master_messages.items():
-                if key in ["extension logoo", "Small promotional tile"]:
-                    # Copiar directamente sin traducir
-                    messages[key] = value
-                else:
-                    # Traducir los otros campos
-                    texto_original = value["message"]
-                    print("Traducioendo "  + texto_original + " al idioma con codigo " + parent_dir)
-                    texto_traducido = traducir_texto(texto_original, parent_dir)
-                    messages[key] = {"message": texto_traducido}
+                texto_original = value["message"]
+                print("Traduciendo " + texto_original + " al idioma con código " + parent_dir)
+                texto_traducido = traducir_texto(texto_original, parent_dir)
+                messages[key] = {"message": texto_traducido}
 
             # Guardar los cambios en el archivo messages.json
             with open(file_path, 'w', encoding='utf-8') as f:

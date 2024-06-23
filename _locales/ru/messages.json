@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "Аварийный режим разработки"
+        "message": "Режим разработки: оповещение"
     },
     "extDescription": {
-        "message": "Расширение для Chrome, выделяющее среды разработки путем добавления настраиваемой рамки."
+        "message": "Расширение для Chrome, выделяющее среды разработки путем добавления настраиваемой границы."
     },
     "enableExtension": {
-        "message": "Активировать расширение"
+        "message": "Включить расширение"
     },
     "borderColor": {
-        "message": "\"Цвет границы\""
+        "message": "Цвет границы"
     },
     "borderWidth": {
-        "message": "\"Толщина края\""
+        "message": "Ширина границы"
     },
     "triggerURL": {
-        "message": "Ссылка для активации"
-    },
-    "displayName": {
-        "message": "Аварийный режим разработки"
-    },
-    "description": {
-        "message": "Dev Mode Alert - это расширение для Chrome, разработанное для помощи разработчикам легко различать между средами разработки и производства. Добавляя настраиваемую рамку вокруг окна браузера при посещении определенных URL, оно предотвращает случайные изменения в неправильной среде."
+        "message": "Ссылка триггера"
     },
     "shortDescription": {
-        "message": "Выделите области разработки с настраиваемой рамкой."
+        "message": "Выделите окружения разработки с настраиваемой рамкой."
     },
-    "Search terms": {
-        "message": "Modo Desarrollo, Alerta Desarrollo, Entorno Desarrollo, Borde Personalizable, Herramientas Dev, Extensión Chrome, Diferenciar Entornos\n\nРежим Разработки, Оповещение Разработки, Окружение Разработки, Настраиваемая Граница, Инструменты Разработчика, Расширение Chrome, Различать Окружения"
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "Dev Mode Alert - это расширение для Chrome, разработанное для помощи разработчикам легко различать между средами разработки и производства, добавляя настраиваемую границу вокруг окна браузера при посещении определенных URL-адресов."
     }
 }

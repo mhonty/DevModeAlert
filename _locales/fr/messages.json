@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "Alerte de Mode Développeur"
+        "message": "Alerte de mode de développement"
     },
     "extDescription": {
-        "message": "Une extension Chrome pour mettre en évidence les environnements de développement en ajoutant une bordure personnalisable."
+        "message": "Une extension Chrome pour mettre en surbrillance les environnements de développement en ajoutant une bordure personnalisable."
     },
     "enableExtension": {
-        "message": "\"Enable Extension\" translates to \"Activer l'extension\" in French."
+        "message": "Activer l'extension"
     },
     "borderColor": {
-        "message": "\"Color del Borde\" se traduit en français par \"Couleur de la Bordure\"."
+        "message": "La traduction en français de \"Border Color\" est \"Couleur de la bordure\"."
     },
     "borderWidth": {
-        "message": "Épaisseur du bord"
+        "message": "Largeur de la bordure"
     },
     "triggerURL": {
-        "message": "L'URL de l'activation"
-    },
-    "displayName": {
-        "message": "Alerte de mode de développement."
-    },
-    "description": {
-        "message": "Dev Mode Alert est une extension Chrome conçue pour aider les développeurs à distinguer facilement entre les environnements de développement et de production. En ajoutant une bordure personnalisable autour de la fenêtre du navigateur lorsque vous visitez des URL spécifiques, elle évite les changements accidentels dans le mauvais environnement."
+        "message": "URL de déclenchement"
     },
     "shortDescription": {
-        "message": "Mettre en évidence des environnements de développement avec une bordure personnalisable."
+        "message": "Mettre en évidence les environnements de développement avec une bordure personnalisable."
     },
-    "Search terms": {
-        "message": "Mode Développement, Alerte Développement, Environnement Développement, Bord Personnalisable, Outils Dev, Extension Chrome, Différencier les Environnements"
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "Dev Mode Alert est une extension Chrome conçue pour aider les développeurs à différencier facilement entre les environnements de développement et de production en ajoutant une bordure personnalisable autour de la fenêtre du navigateur lors de la visite d'URL spécifiées."
     }
 }
