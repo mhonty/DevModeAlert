@@ -3,24 +3,21 @@
         "message": "Upozornenie na režim vývoja"
     },
     "extDescription": {
-        "message": "Rozšírenie pre Chrome na zvýraznenie vývojových prostredí pridaním prispôsobiteľnej hranice."
+        "message": "Rozšírenie pre Chrome na zvýraznenie vývojových prostredí pridaním prispôsobiteľného rámčeku."
     },
     "enableExtension": {
         "message": "Povoliť rozšírenie"
     },
     "borderColor": {
-        "message": "Farba hranice"
+        "message": "Farba rámčeka"
     },
     "borderWidth": {
-        "message": "Šírka hranice"
+        "message": "Šírka rámčeka"
     },
     "triggerURL": {
-        "message": "Spúšťač URL"
-    },
-    "shortDescription": {
-        "message": "Zvýrazniť vývojové prostredia prispôsobiteľnou hranicou."
+        "message": "Triggrovacia URL"
     },
     "description": {
-        "message": "Upozornenie na režim vývoja je rozšírenie pre Chrome navrhnuté na pomoc vývojárom pri ľahkom odlišovaní vývojových a produkčných prostredí pridaním prispôsobiteľnej hranice okolo okna prehliadača pri návšteve určených URL adries."
+        "message": "Upozornenie na režim vývoja je rozšírenie pre Chrome navrhnuté na pomoc vývojárom pri ľahkom rozlíšení medzi vývojovými a produkčnými prostrediami pridaním prispôsobiteľného rámčeka okolo okna prehliadača pri návšteve určitých URL adries."
     }
 }

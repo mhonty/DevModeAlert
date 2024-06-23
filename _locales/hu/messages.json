@@ -1,12 +1,12 @@
 {
     "extName": {
-        "message": "Fejlesztési Mód Figyelmeztetés"
+        "message": "Fejlesztői mód figyelmeztetés"
     },
     "extDescription": {
-        "message": "Egy Chrome-kiegészítő fejlesztőkörnyezetek kiemeléséhez, testreszabható keret hozzáadásával."
+        "message": "Egy Chrome-kiterjesztés, amely fejlesztői környezeteket emel ki egy testreszabható keret hozzáadásával."
     },
     "enableExtension": {
-        "message": "Kiegészítő Engedélyezése"
+        "message": "Kiterjesztés engedélyezése"
     },
     "borderColor": {
         "message": "Keretszín"
@@ -15,12 +15,9 @@
         "message": "Keretszélesség"
     },
     "triggerURL": {
-        "message": "Becsatlakoztatási URL"
-    },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
+        "message": "Kiváltó URL"
     },
     "description": {
-        "message": "A Dev Mode Alert egy olyan Chrome-kiegészítő, amely segít a fejlesztőknek könnyedén megkülönböztetni a fejlesztési és a produkciós környezetek között, testreszabható keret hozzáadásával a böngészőablak köré, amikor megadott URL-eket látogatnak."
+        "message": "A Fejlesztői Mód Figyelmeztetés egy olyan Chrome-kiterjesztés, amely arra szolgál, hogy a fejlesztők könnyen megkülönböztethessék a fejlesztési és a termelési környezeteket, amikor a megadott URL-címeket látogatják, egy testreszabható keret hozzáadásával a böngészőablak köré."
     }
 }

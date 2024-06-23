@@ -1,9 +1,9 @@
 {
     "extName": {
-        "message": "Entwicklungsmodus Alarm"
+        "message": "Entwicklungsmodus Warnung"
     },
     "extDescription": {
-        "message": "Eine Chrome-Erweiterung zum Hervorheben von Entwicklungsumgebungen durch das Hinzufügen eines anpassbaren Rahmens."
+        "message": "Eine Chrome-Erweiterung, die Entwicklungsumgebungen hervorhebt, indem sie einen anpassbaren Rahmen hinzufügt."
     },
     "enableExtension": {
         "message": "Erweiterung aktivieren"
@@ -15,12 +15,9 @@
         "message": "Rahmenbreite"
     },
     "triggerURL": {
-        "message": "Auslöser-URL"
-    },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
+        "message": "Auslöse-URL"
     },
     "description": {
-        "message": "Der Dev-Modus-Alarm ist eine Chrome-Erweiterung, die entwickelt wurde, um Entwicklern das einfache Unterscheiden zwischen Entwicklungs- und Produktionsumgebungen zu ermöglichen, indem sie einen anpassbaren Rahmen um das Browserfenster hinzufügt, wenn bestimmte URLs besucht werden."
+        "message": "Dev Mode Alert ist eine Chrome-Erweiterung, die entwickelt wurde, um Entwicklern das einfache Unterscheiden zwischen Entwicklungs- und Produktionsumgebungen zu ermöglichen, indem sie um den Browserfenster einen anpassbaren Rahmen hinzufügt, wenn bestimmte URLs besucht werden."
     }
 }

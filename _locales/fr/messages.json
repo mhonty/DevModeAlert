@@ -15,12 +15,9 @@
         "message": "Largeur de la bordure"
     },
     "triggerURL": {
-        "message": "URL déclencheur"
-    },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
+        "message": "URL déclenchante"
     },
     "description": {
-        "message": "Dev Mode Alert est une extension Chrome conçue pour aider les développeurs à différencier facilement les environnements de développement et de production en ajoutant une bordure personnalisable autour de la fenêtre du navigateur lors de la visite d'URL spécifiées."
+        "message": "Dev Mode Alert est une extension Chrome conçue pour aider les développeurs à différencier facilement entre les environnements de développement et de production en ajoutant une bordure personnalisable autour de la fenêtre du navigateur lors de la visite d'URL spécifiées."
     }
 }

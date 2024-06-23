@@ -15,12 +15,9 @@
         "message": "Largura da Borda"
     },
     "triggerURL": {
-        "message": "URL de Disparo"
-    },
-    "shortDescription": {
-        "message": "Resaltar ambientes de desenvolvimento com uma borda personalizável."
+        "message": "URL de Acionamento"
     },
     "description": {
-        "message": "O Alerta de Modo de Desenvolvimento é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs especificados."
+        "message": "O Alerta de Modo de Desenvolvimento é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção, adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs especificadas."
     }
 }

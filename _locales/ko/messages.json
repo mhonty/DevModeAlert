@@ -1,9 +1,9 @@
 {
     "extName": {
-        "message": "개발 모드 경고"
+        "message": "개발 모드 알림"
     },
     "extDescription": {
-        "message": "개발 환경을 강조하기 위해 사용자 정의 가능한 테두리를 추가하는 크롬 확장 프로그램입니다."
+        "message": "개발 환경을 강조하기 위해 사용자 정의 가능한 테두리를 추가하는 Chrome 확장 프로그램입니다."
     },
     "enableExtension": {
         "message": "확장 프로그램 활성화"
@@ -17,10 +17,7 @@
     "triggerURL": {
         "message": "트리거 URL"
     },
-    "shortDescription": {
-        "message": "지정된 URL을 방문할 때 브라우저 창 주변에 사용자 정의 가능한 테두리를 추가하여 개발 및 프로덕션 환경을 쉽게 구별할 수 있는 크롬 확장 프로그램입니다."
-    },
     "description": {
-        "message": "Dev Mode Alert는 개발자가 특정 URL을 방문할 때 브라우저 창 주위에 사용자 정의 가능한 테두리를 추가하여 개발 및 프로덕션 환경을 쉽게 구별할 수 있도록 설계된 크롬 확장 프로그램입니다."
+        "message": "Dev Mode Alert는 지정된 URL을 방문할 때 브라우저 창 주변에 사용자 정의 가능한 테두리를 추가하여 개발 및 프로덕션 환경을 쉽게 구별할 수 있도록 하는 Chrome 확장 프로그램입니다."
     }
 }

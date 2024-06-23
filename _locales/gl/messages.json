@@ -1,26 +1,23 @@
 {
     "extName": {
-        "message": "Alerta del Modo de Desarrollo"
+        "message": "Alerta do Modo de Desenvolvimento"
     },
     "extDescription": {
-        "message": "Una extensión para Chrome que destaca entornos de desarrollo agregando un borde personalizable."
+        "message": "Uma extensão do Chrome para realçar ambientes de desenvolvimento adicionando uma borda personalizável."
     },
     "enableExtension": {
-        "message": "Activar Extensión"
+        "message": "Ativar Extensão"
     },
     "borderColor": {
-        "message": "Color del Borde"
+        "message": "Cor da Borda"
     },
     "borderWidth": {
-        "message": "Ancho del Borde"
+        "message": "Largura da Borda"
     },
     "triggerURL": {
-        "message": "URL de Activación"
-    },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
+        "message": "URL de Disparo"
     },
     "description": {
-        "message": "Alerta de Modo de Desarrollo es una extensión de Chrome diseñada para ayudar a los desarrolladores a diferenciar fácilmente entre entornos de desarrollo y producción agregando un borde personalizable alrededor de la ventana del navegador al visitar URL específicas."
+        "message": "O Alerta do Modo de Desenvolvimento é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção, adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs específicos."
     }
 }

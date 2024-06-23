@@ -17,9 +17,6 @@
     "triggerURL": {
         "message": "Trigger URL"
     },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
-    },
     "description": {
         "message": "Dev Mode Alert is a Chrome extension designed to help developers easily differentiate between development and production environments by adding a customizable border around the browser window when visiting specified URLs."
     }

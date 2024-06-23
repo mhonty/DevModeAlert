@@ -3,24 +3,21 @@
         "message": "Development Mode Alert"
     },
     "extDescription": {
-        "message": "Garapen inguruneak nabarmendu Chrome luzapenarekin margotuz."
+        "message": "A Chrome-erabilizazioa garatzaile inguruneak nabarmendu ahal izateko baliozkotzat jotzen duen pxina gehigarri bat gehitzen duen Chrome extension bat."
     },
     "enableExtension": {
-        "message": "Gaitu luzapena"
+        "message": "Extensiona Gaitu"
     },
     "borderColor": {
-        "message": "Azalaren Kolorea"
+        "message": "Ertz Kolorea"
     },
     "borderWidth": {
-        "message": "Azal Zabalera"
+        "message": "Ertz Zabalera"
     },
     "triggerURL": {
-        "message": "Trigger URL"
-    },
-    "shortDescription": {
-        "message": "Resaltar entornos de desarrollo con un borde personalizable."
+        "message": "Ekitaldi URLa"
     },
     "description": {
-        "message": "Dev Mode Alert a Chrome luzapen bat da, garatzaileei laguntzeko, garapen eta produkzio inguruneak erraz bereiz ditzate URL espezifikoen bisitatzean nabarmenduzko azal bat gehituz."
+        "message": "Dev Mode Alert Google-en aplikazio bat da garatzaileak garraiatu daitezen hain zuzen ere antolakuntza ingurune eta produkzio inguruneen artean diferentziatzeko barrantzitsua daiteke aplikazio bat transpaleta nitratu egiten diren URL zehatzak bisitatzen direnean."
     }
 }
