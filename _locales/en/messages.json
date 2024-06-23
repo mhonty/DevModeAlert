@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Highlight development environments with a customizable border."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Development Mode, Development Alert, Development Environment, Customizable Boundary, Dev Tools, Chrome Extension, Differentiate Environments"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

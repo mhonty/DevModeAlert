@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Zvýrazniť vývojové prostredia s personalizovateľným rámom."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Režim Vývoj, Vývojové Upozornění, Vývojové Prostredie, Prispôsobiteľný Okraj, Vývojové Nástroje, Rozšírenie Chrome, Rozlišovať Prostredia"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

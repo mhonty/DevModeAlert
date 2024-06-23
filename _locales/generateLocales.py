@@ -42,7 +42,7 @@ for subdir, dirs, files in os.walk(root_dir):
 
             # Procesar cada clave y valor en master_messages
             for key, value in master_messages.items():
-                if key in ["extensionLogo", "smallPromotionalTile"]:
+                if key in ["extension logoo", "Small promotional tile"]:
                     # Copiar directamente sin traducir
                     messages[key] = value
                 else:

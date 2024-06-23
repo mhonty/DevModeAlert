@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Hervorheben Sie Entwicklungsumgebungen mit einem anpassbaren Rand."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Im Entwicklungmodus, Entwicklungsalarm, Entwicklungsumgebung, anpassbarer Rahmen, Entwicklerwerkzeuge, Chrome-Erweiterung, Umgebungen unterscheiden."
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "개인 설정 가능한 테두리로 개발 환경을 강조합니다."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "모드 개발, 경보 개발, 환경 개발, 사용자 정의 가능한 가장자리, 개발 도구, Chrome 확장 프로그램, 환경 구분하기"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

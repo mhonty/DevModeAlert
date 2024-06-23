@@ -1,38 +1,41 @@
 {
     "extName": {
-        "message": "Alerta de Modo Desarrollo"
+        "message": "Development Mode Alert"
     },
     "extDescription": {
-        "message": "Una extensión de Chrome para resaltar los entornos de desarrollo añadiendo un borde personalizable."
+        "message": "A Chrome extension to highlight development environments by adding a customizable border."
     },
     "enableExtension": {
-        "message": "Habilitar Extensión"
+        "message": "Enable Extension"
     },
     "borderColor": {
-        "message": "Color del Borde"
+        "message": "Border Color"
     },
     "borderWidth": {
-        "message": "Grosor del Borde"
+        "message": "Border Width"
     },
     "triggerURL": {
-        "message": "URL de Activación"
+        "message": "Trigger URL"
     },
     "displayName": {
-        "message": "Alerta de Modo Desarrollo"
+        "message": "Development Mode Alert"
+    },
+    "name": {
+        "message": "Development Mode Alert"
     },
     "description": {
-        "message": "Dev Mode Alert es una extensión de Chrome diseñada para ayudar a los desarrolladores a distinguir fácilmente entre entornos de desarrollo y producción. Añadiendo un borde personalizable alrededor de la ventana del navegador cuando visitas URLs específicas, evita cambios accidentales en el entorno incorrecto."
+        "message": "Dev Mode Alert is a Chrome extension designed to help developers easily differentiate between development and production environments by adding a customizable border around the browser window when visiting specified URLs."
     },
     "shortDescription": {
-        "message": "Resalta entornos de desarrollo con un borde personalizable."
+        "message": "Highlight development environments with a customizable border."
     },
-    "searchTerms": {
-        "message": "Modo Desarrollo, Alerta Desarrollo, Entorno Desarrollo, Borde Personalizable, Herramientas Dev, Extensión Chrome, Diferenciar Entornos"
+    "Search terms": {
+        "message": "Development Mode, Development Alert, Development Environment, Customizable Border, Dev Tools, Chrome Extension, Differentiate Environments"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }
