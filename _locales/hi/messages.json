@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "रिस्पॉंस: एक निर्माण सीमा के साथ डेवलपमेंट एनवायरनमेंट को हाइलाइट करें।"
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "मोड डेवलपमेंट, अलर्ट डेवलपमेंट, परिवेश डेवलपमेंट, परिसीमित करने वाली सीमा, डेव टूल्स, क्रोम एक्सटेंशन, एनवायरमेंट्स को पहचानना"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

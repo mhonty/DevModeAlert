@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Kiemelje a fejlesztési környezeteket testreszabható kerettel."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "The translated text in Hungarian is: Fejlesztési Mód, Fejlesztési Figyelmeztetés, Fejlesztési Környezet, Testreszabható Szegély, Fejlesztő Eszközök, Chrome Kiegészítő, Környezetek Megkülönböztetése"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

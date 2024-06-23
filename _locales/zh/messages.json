@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "突出可自定义边框的开发环境。"
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "开发模式，开发警报，开发环境，可定制边缘，开发工具，Chrome扩展，区分环境"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

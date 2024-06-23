@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Выделите области разработки с настраиваемой рамкой."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Modo Desarrollo, Alerta Desarrollo, Entorno Desarrollo, Borde Personalizable, Herramientas Dev, Extensión Chrome, Diferenciar Entornos\n\nРежим Разработки, Оповещение Разработки, Окружение Разработки, Настраиваемая Граница, Инструменты Разработчика, Расширение Chrome, Различать Окружения"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

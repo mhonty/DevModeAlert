@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "يسلط الضوء على بيئات التطوير مع حافة قابلة للتخصيص."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "وضع التطوير، تنبيه التطوير، بيئة التطوير، الحافة قابلة للتخصيص، أدوات المطورين، امتداد Chrome، تمييز البيئات"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

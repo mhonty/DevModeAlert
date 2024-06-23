@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Garatu-ingurua nabarmendu pertsonalizagarri bat duen ertza."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Garatu Modua, Gurutzeko Garatu, Inguru Garatu, Pertsonalizagarri Atea, Garatzaile Tresnak, Chrome Hedapena, Inguruak Bereiztea"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

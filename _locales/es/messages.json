@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Destaca entornos de desarrollo con un borde personalizable."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Modo Desarrollo, Alerta Desarrollo, Entorno Desarrollo, Borde Personalizable, Herramientas Dev, Extensión Chrome, Diferenciar Entornos \n\nTranslate to Spanish:\n\nModo de Desarrollo, Alerta de Desarrollo, Entorno de Desarrollo, Borde Personalizable, Herramientas para Desarrolladores, Extensión de Chrome, Diferenciar Entornos"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }

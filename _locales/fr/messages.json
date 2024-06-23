@@ -26,13 +26,13 @@
     "shortDescription": {
         "message": "Mettre en évidence des environnements de développement avec une bordure personnalisable."
     },
-    "searchTerms": {
+    "Search terms": {
         "message": "Mode Développement, Alerte Développement, Environnement Développement, Bord Personnalisable, Outils Dev, Extension Chrome, Différencier les Environnements"
     },
-    "extensionLogo": {
+    "extension logoo": {
         "message": "img/logoDevModeAlert_300.png"
     },
-    "smallPromotionalTile": {
+    "Small promotional tile": {
         "message": "img/small_promotional_DevModeAlert.png"
     }
 }
