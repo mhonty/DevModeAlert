@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "Alerta de Modo Desenvolvimento"
+        "message": "Alerta de Modo de Desenvolvimento"
     },
     "extDescription": {
-        "message": "Uma extensão do Chrome para realçar os ambientes de desenvolvimento ao adicionar uma borda personalizável."
+        "message": "Uma extensão do Chrome para destacar ambientes de desenvolvimento adicionando uma borda personalizável."
     },
     "enableExtension": {
-        "message": "\"Enable Extension\" em português é \"Habilitar Extensão\"."
+        "message": "Ativar Extensão"
     },
     "borderColor": {
         "message": "Cor da Borda"
     },
     "borderWidth": {
-        "message": "Espessura da Borda"
+        "message": "A largura da borda"
     },
     "triggerURL": {
-        "message": "URL de Ativação"
-    },
-    "displayName": {
-        "message": "Alerta de Modo Desenvolvimento"
-    },
-    "description": {
-        "message": "Dev Mode Alert é uma extensão do Chrome projetada para ajudar os desenvolvedores a distinguir facilmente entre ambientes de desenvolvimento e produção. Ao adicionar uma borda personalizável ao redor da janela do navegador ao visitar URLs específicas, ela evita alterações acidentais no ambiente errado."
+        "message": "Disparar URL"
     },
     "shortDescription": {
-        "message": "Destaque ambientes de desenvolvimento com uma borda personalizável."
+        "message": "Realçar ambientes de desenvolvimento com uma borda personalizável."
     },
-    "Search terms": {
-        "message": "Modo Desenvolvimento, Alerta de Desenvolvimento, Ambiente de Desenvolvimento, Borda Personalizável, Ferramentas de Desenvolvimento, Extensão Chrome, Diferenciar Ambientes."
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "O Dev Mode Alert é uma extensão do Chrome projetada para ajudar os desenvolvedores a diferenciar facilmente entre ambientes de desenvolvimento e produção, adicionando uma borda personalizável ao redor da janela do navegador ao visitar URLs específicos."
     }
 }

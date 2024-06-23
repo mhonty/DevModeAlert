@@ -1,38 +1,26 @@
 {
     "extName": {
-        "message": "\"Entwicklungsmodus-Warnung\""
+        "message": "Entwicklungsmodus-Benachrichtigung"
     },
     "extDescription": {
-        "message": "Eine Chrome-Erweiterung, um Entwicklungsumgebungen hervorzuheben, indem sie einen anpassbaren Rand hinzufügt."
+        "message": "Eine Chrome-Erweiterung, um Entwicklungsumgebungen hervorzuheben, indem sie einen anpassbaren Rahmen hinzufügt."
     },
     "enableExtension": {
-        "message": "The translation of \"Enable Extension\" in German is \"Erweiterung aktivieren\"."
+        "message": "Aktiviere Erweiterung."
     },
     "borderColor": {
-        "message": "Farbe der Rahmen"
+        "message": "The translation of \"Border Color\" to German is \"Randfarbe\"."
     },
     "borderWidth": {
-        "message": "\"Thickness of the Edge\" would be translated to German as \"Dicke des Randes\"."
+        "message": "The translation of \"Border Width\" to German is \"Rahmenbreite\"."
     },
     "triggerURL": {
-        "message": "The translation of \"Activation URL\" to German is \"Aktivierungs-URL.\""
-    },
-    "displayName": {
-        "message": "\"Entwicklungsmodus-Warnung\""
-    },
-    "description": {
-        "message": "Dev Mode Alert ist eine Chrome-Erweiterung, die entwickelt wurde, um Entwicklern bei der einfachen Unterscheidung zwischen Entwicklungs- und Produktionsumgebungen zu helfen. Indem sie einen anpassbaren Rand um das Browserfenster hinzufügt, wenn Sie bestimmte URLs besuchen, verhindert sie versehentliche Änderungen in der falschen Umgebung."
+        "message": "Auslöse-URL"
     },
     "shortDescription": {
-        "message": "Hervorheben Sie Entwicklungsumgebungen mit einem anpassbaren Rand."
+        "message": "Hervorheben von Entwicklungsumgebungen mit einem anpassbaren Rand."
     },
-    "Search terms": {
-        "message": "Im Entwicklungmodus, Entwicklungsalarm, Entwicklungsumgebung, anpassbarer Rahmen, Entwicklerwerkzeuge, Chrome-Erweiterung, Umgebungen unterscheiden."
-    },
-    "extension logoo": {
-        "message": "img/logoDevModeAlert_300.png"
-    },
-    "Small promotional tile": {
-        "message": "img/small_promotional_DevModeAlert.png"
+    "description": {
+        "message": "Dev Mode Alert ist eine Chrome-Erweiterung, die entwickelt wurde, um Entwicklern dabei zu helfen, zwischen Entwicklungs- und Produktionsumgebungen leicht zu unterscheiden, indem sie beim Besuch bestimmter URLs einen anpassbaren Rahmen um das Browserfenster hinzufügt."
     }
 }
